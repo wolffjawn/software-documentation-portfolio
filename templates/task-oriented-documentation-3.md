@@ -7,3 +7,4 @@
     - add supporting media, links, etc.
     - add references to related topics
 
+Use it to provide instructional information, answering the question "How to do this?"
