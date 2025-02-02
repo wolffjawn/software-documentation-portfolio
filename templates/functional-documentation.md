@@ -1,3 +1,0 @@
-# Functional Documentation
-
-[Coming Soon!]
