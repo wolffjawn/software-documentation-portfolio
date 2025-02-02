@@ -1,6 +1,6 @@
 # Welcome to My Software Documentation Portfolio!
 
-## Skillz:
+## Skills Demonstrated in this Repository:
 - Create a new repository on GitHub
 - *Create a new page in GitHub Wiki* [Coming Soon]
 - Create a page (topic) title and subtitle (H1 and H2)
