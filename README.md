@@ -2,7 +2,6 @@
 
 ## Skills Demonstrated in this Repository:
 - Create a new repository on GitHub
-- *Create a new page in GitHub Wiki* [Coming Soon]
 - Create a page (topic) title and subtitle (H1 and H2)
 - Create a table
 - Upload images and other files to reference
